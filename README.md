@@ -1,6 +1,2 @@
 # PROJET-ISN-PCD
-yo
-les betes de potes
-tg
-blablabla
-
+Projet pour but d'aider à la population aveugle.
